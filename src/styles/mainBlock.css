@@ -1,0 +1,18 @@
+.main {
+  padding: 30px 60px;
+  border: 2px solid rgb(184, 183, 183);
+  border-left: none;
+  height: 400px;
+  width: 100%;
+  overflow: auto;
+}
+
+.main__title {
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+
+.main__text {
+  word-wrap: break-word;
+}

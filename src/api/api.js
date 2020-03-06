@@ -1,0 +1,8 @@
+export const course = [
+  {title: 'Basic', text: "Dont worry if these examples use tags you have not learned.You will learn about them in the next chapters.HTML Documents All HTML documents must start with a document type declaration: <!DOCTYPE html>.The HTML document itself begins with <html> and ends with </html>.The visible part of the HTML document is between <body> and </body>"},
+  {title: 'Elements', text: "HTML Elements An HTML element usually consists of a start tag and an end tag, with the content inserted in between: <tagname>Content goes here...</tagname>The HTML element is everything from the start tag to the end tag:<p>My first paragraph.</p>"},
+  {title: 'Attributes', text: "All HTML elements can have attributes Attributes provide additional information about an element Attributes are always specified in the start tag Attributes usually come in name/value pairs like: name='value' "},
+  {title: 'Headings', text: "Headings are defined with the <h1> to <h6> tags.<h1> defines the most important heading. <h6> defines the least important heading."},
+  {title: 'Paragraphs', text: "The HTML <p> element defines a paragraph"},
+  {title: 'Formatting', text: "In the previous chapter, you learned about the HTML style attribute.HTML also defines special elements for defining text with a special meaning.HTML uses elements like <b> and <i> for formatting output, like bold or italic text."},
+]
